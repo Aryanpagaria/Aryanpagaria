@@ -33,7 +33,7 @@
     <td align="center"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="50"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/></td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50"/></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50"/></td>
+    
 
   </tr>
 
@@ -43,5 +43,6 @@
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="50"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="50"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50"/></td>
   </tr>
 </table>
