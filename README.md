@@ -1,13 +1,13 @@
 <h1 align="center">
   Hi 👋, I'm <a href="https://github.com/Aryanpagaria" target="_blank">Aryan Pagaria</a>
 </h1>
-<h3 align="center">AI/MLOPS Engineer focused on building production-ready ML systems And Manage Operations</h3>
+<h3 align="center">AI Engineer focused on building production-ready LLMs systems And Manage Operations</h3>
 
-- ⚙️ What I do: **Design end-to-end ML pipelines — from data preprocessing to deployment, monitoring, and system optimization**
+- ⚙️ What I do: **Design LLMs — from model training  to deployment, monitoring, and system optimization**
 
-- 🌱 I’m currently learning **MLOps (CI/CD for ML, model versioning, monitoring)**
+- 🌱 I’m currently learning **MLOps (CI/CD for LLMs, model versioning, monitoring)**
 
-- 💬 Ask me about **Machine Learning fundamentals | Model deployment with FastAPI & Docker | Building end-to-end ML pipelines**
+- 💬 Ask me about **LLMs | AI | benchmarks and research | new tech**
 
 - 📫 How to reach me **aryanpagaria7@gmail.com**
 
